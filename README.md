@@ -10,7 +10,7 @@ Este projeto demonstra transformações geométricas aplicadas a um objeto tridi
   - Rotação
   - Escala
 - Visualização com projeção em perspectiva.
-- Interface por teclado.
+- Transformações informadas por teclado.
 
 ---
 
